@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="float_window">悬浮窗</string>
+    <string name="close_float_window">关闭悬浮窗</string>
+    <string name="back">返回</string>
 </resources>
